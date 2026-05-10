@@ -114,4 +114,4 @@ python menu_login_1.py
 
 ## 👤 Autor
 
-Feito por **seu-nome** — sinta-se à vontade para contribuir!
+Feito por **André Viana** — sinta-se à vontade para contribuir!
